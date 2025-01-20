@@ -17,8 +17,6 @@ marks=sc.nextInt();
 total+=marks;
 }
 System.out.println("total:"+total);
-
-
 average=total/subjects;
 System.out.println("average:"+average);
 if(average>90)
@@ -37,11 +35,6 @@ else
 {
 System.out.println("D");
 }
-
-
-
-
-
 }
 }
 
